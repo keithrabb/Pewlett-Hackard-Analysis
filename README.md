@@ -16,5 +16,6 @@ PH has an upcoming retirement vaccum.  There will be many people retiring in the
 ![mentor_elig](Graphics/mentor_elig.PNG)
 
 ## Deliverable 3:  A written report on the employee database analysis
+Below is a graphic showing the need for a mentorship training program due to the upcoming retirements.
 
 ![retiring_titles_count](Graphics/retiring_titles_count.PNG)
