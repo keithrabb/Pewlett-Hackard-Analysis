@@ -24,4 +24,4 @@ Below is a graphic showing the need for a mentorship training program due to the
 #### Summary
 * Age CAN be a determining factor, but should not be the only factor.  Years of service with company is likely more appropriate for mentorship.  This would expand the mentors in the program.
 * Younger people in coming into the program would likely better identify with people closer to their own age.
-* Expand the age range to create more mentors based on the current criteria.
+* Expand the age range from one year to a four year range will identify well seasoned employees to create more mentors based on the current scheme for deciding who would be mentors.
