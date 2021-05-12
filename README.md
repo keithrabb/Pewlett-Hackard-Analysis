@@ -7,7 +7,7 @@ PH has an upcoming retirement vaccum.  There will be many people retiring in the
 ## Deliverable 1: Number of retiring Employees by Title
 ![Retire_titles](Graphics/Retire_titles.PNG)
 
-### New graphic with latest positions within the company
+#### New graphic with latest positions within the company
 
 ![uniq_new_retire_titles](Graphics/uniq_new_retire_titles.PNG)
 
