@@ -17,10 +17,11 @@ PH has an upcoming retirement vaccum.  There will be many people retiring in the
 ![mentor_elig](Graphics/mentor_elig.PNG)
 
 ## Part 3:  Analysis
-Below is a graphic showing the need for a mentorship training program due to the upcoming retirements.
+Below is a graphic showing the need for a mentorship training program due to the upcoming retirements by position.  There are clearly not enough mentors for the program.
 
 ![retiring_titles_count](Graphics/retiring_titles_count.PNG)
 
 #### Summary
 * Age CAN be a determining factor, but should not be the only factor.  Years of service with company is likely more appropriate for mentorship.  This would expand the mentors in the program.
 * Younger people in coming into the program would likely better identify with people closer to their own age.
+* Expand the age range to create more mentors based on the current criteria.
