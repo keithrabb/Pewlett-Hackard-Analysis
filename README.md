@@ -13,6 +13,6 @@ PH has an upcoming retirement vaccum.  There will be many people retiring in the
 
 ## Deliverable 2: The Employees Eligible for the Mentorship Program
 
-![mentor_elig] (Graphics/mentor_elig.PNG)
+![mentor_elig](Graphics/mentor_elig.PNG)
 
 ## Deliverable 3:  A written report on the employee database analysis
