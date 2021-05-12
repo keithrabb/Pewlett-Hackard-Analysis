@@ -8,6 +8,7 @@ PH has an upcoming retirement vaccum.  There will be many people retiring in the
 ![Retire_titles](Graphics/Retire_titles.PNG)
 
 * New graphic with latest positions within the company
+
 ![uniq_new_retire_titles](Graphics/uniq_new_retire_titles.PNG)
 
 ## Deliverable 2: The Employees Eligible for the Mentorship Program
